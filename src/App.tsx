@@ -442,7 +442,7 @@ function About() {
               <p className="text-gray-600 leading-relaxed">
               Saintsuzzy is more than just a brand — it's a lifestyle that celebrates elegance, confidence, and the multifaceted beauty of the modern woman. Founded by the visionary entrepreneur known as Saintsuzzy, the brand has grown into a dynamic empire encompassing several distinct but interwoven ventures:
               <br /><br />
-              <strong>Saintsuzzy Signature</strong> – our flagship fashion line known for its luxurious, contemporary pieces designed to elevate every woman’s wardrobe.
+              <strong>Saintsuzzy Fashion House</strong> – our flagship fashion line known for its luxurious, contemporary pieces designed to elevate every woman’s wardrobe.
               <br />
               <strong>Saintsuzzy Beauty</strong> – A makeup brand that enhances natural beauty with bold, high-quality cosmetics.
               <br />
