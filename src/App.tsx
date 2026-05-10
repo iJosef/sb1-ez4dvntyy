@@ -11,7 +11,7 @@ const products = [
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
     
     sizes: [],
@@ -23,7 +23,7 @@ const products = [
     images: [
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1746098973/mat_brown_jkucdl.jpg'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
     
     sizes: [],
@@ -36,7 +36,7 @@ const products = [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572496/IMG_3974_yoy5ri.jpg',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572497/IMG_3976_amtbh2.jpg'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Luxurious velvet blazer perfect for evening occasions.',
     
     sizes: [],
@@ -50,7 +50,7 @@ const products = [
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323752/cream_back_bxqvld.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323747/cream_pose_m8ask4.jpg?auto=format&fit=crop&q=80&w=720'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Elegant evening gown with crystal embellishments.',
     
     sizes: [],
@@ -63,7 +63,7 @@ const products = [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572464/IMG_4129_krvwxa.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572441/IMG_4153_zkwkay.jpg?auto=format&fit=crop&q=80&w=720'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Luxurious satin two-piece set for special occasions.',
     
     sizes: [],
@@ -76,7 +76,7 @@ const products = [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572485/IMG_4096_tce1ig.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572449/IMG_4111_wzofvw.jpg?auto=format&fit=crop&q=80&w=720'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Flowing silk dress with delicate details.',
     
     sizes: [],
@@ -90,7 +90,7 @@ const products = [
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745326808/deep_green_backk_w6bwtt.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325724/deep_green_closing_mafn6e.jpg?auto=format&fit=crop&q=80&w=720'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Stunning two-piece evening set with intricate beading.',
     sizes: [],
   },
@@ -102,7 +102,7 @@ const products = [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572533/IMG_4019_auw0rv.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572432/IMG_4016_za5ay8.jpg?auto=format&fit=crop&q=80&w=720'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Stunning two-piece evening set with intricate beading.',
     sizes: [],
   },
@@ -114,7 +114,7 @@ const products = [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572520/IMG_4067_q4ygcv.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325200/baby_green_front_1_aehjzc.jpg'
     ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    instagram: 'https://www.instagram.com/saintsuzzy_fashion_house',
     description: 'Flawless silk duchess satin dress with chantily draping.',
     sizes: [],
   }
@@ -192,7 +192,7 @@ function Navigation() {
 
           <div className="flex items-center space-x-4">
             <a
-              href="https://www.instagram.com/saintsuzzysignature"
+              href="https://www.instagram.com/saintsuzzy_fashion_house"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-800"
@@ -513,7 +513,7 @@ function App() {
               {/* Social */}
               <div className="text-center md:text-right">
                 <a
-                  href="https://www.instagram.com/saintsuzzysignature"
+                  href="https://www.instagram.com/saintsuzzy_fashion_house"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors"
